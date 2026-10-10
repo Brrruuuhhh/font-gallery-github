@@ -1,0 +1,14 @@
+/.private/
+/vendor/
+/admin-ui/node_modules/
+/admin-ui/dist/
+/admin-ui/dist-ssr/
+/admin-ui/coverage/
+/admin-ui/.eslintcache
+/tests/artifacts/
+/.vscode/
+/admin-ui/.vscode/
+/.idea/
+*.log
+.DS_Store
+Thumbs.db

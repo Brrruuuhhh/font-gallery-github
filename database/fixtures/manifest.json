@@ -1,0 +1,564 @@
+[
+  {
+    "id": "1",
+    "name": "Roboto",
+    "family": "sans-serif",
+    "author": "Christian Robertson, ParaType, Font Bureau",
+    "license": "OFL",
+    "tags": [
+      "гротеск",
+      "современный",
+      "универсальный"
+    ],
+    "dateAdded": "2026-02-15",
+    "downloads": 12540,
+    "previewText": "Быстрая коричневая лиса прыгает через ленивую собаку",
+    "slug": "roboto",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "roboto/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/roboto",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "roboto/roboto.ttf",
+        "name": "roboto.ttf",
+        "sha256": "d7598e12c5dbef095ff8272cfc55da0250bd07fbdecbac8a530b9b277872a134",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/roboto/Roboto%5Bwdth%2Cwght%5D.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "roboto/roboto.woff",
+        "name": "roboto.woff",
+        "sha256": "67dae60305a5ea3bc223feb29b624c828ff77fed4087c4a8482bf88287d37afa",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/roboto/Roboto%5Bwdth%2Cwght%5D.ttf"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Playfair Display",
+    "family": "serif",
+    "author": "Claus Eggers Sørensen",
+    "license": "OFL",
+    "tags": [
+      "с засечками",
+      "элегантный",
+      "заголовки"
+    ],
+    "dateAdded": "2026-02-10",
+    "downloads": 9876,
+    "previewText": "Широкая электрификация южных губерний дает мощный толчок",
+    "slug": "playfairdisplay",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "playfairdisplay/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/playfairdisplay",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "playfairdisplay/playfairdisplay.ttf",
+        "name": "playfairdisplay.ttf",
+        "sha256": "c40f2293766a503bc70cce9e512ef844a4ccb7cbcde792fe2ea31d191917d8d6",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/playfairdisplay/PlayfairDisplay%5Bwght%5D.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "playfairdisplay/playfairdisplay.woff",
+        "name": "playfairdisplay.woff",
+        "sha256": "aea7f821e8a2590f554040c8cd11636f4187920b7b46a9918297816593134be8",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/playfairdisplay/PlayfairDisplay%5Bwght%5D.ttf"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Montserrat",
+    "family": "sans-serif",
+    "author": "Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly",
+    "license": "OFL",
+    "tags": [
+      "гротеск",
+      "геометрический",
+      "чистый"
+    ],
+    "dateAdded": "2026-02-20",
+    "downloads": 15320,
+    "previewText": "Съешь ещё этих мягких французских булок",
+    "slug": "montserrat",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "montserrat/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/montserrat",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "montserrat/montserrat.ttf",
+        "name": "montserrat.ttf",
+        "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/montserrat/Montserrat%5Bwght%5D.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "montserrat/montserrat.woff",
+        "name": "montserrat.woff",
+        "sha256": "75fedf44e6c17cd3300418d6a11e9f5ef805ed5a0d22b1a13cfd665fb82c2972",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/montserrat/Montserrat%5Bwght%5D.ttf"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Lobster",
+    "family": "display",
+    "author": "Impallari Type",
+    "license": "OFL",
+    "tags": [
+      "рукописный",
+      "декоративный",
+      "курсив"
+    ],
+    "dateAdded": "2026-02-05",
+    "downloads": 7654,
+    "previewText": "Изящный почерк для особых случаев",
+    "slug": "lobster",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "lobster/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/lobster",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "lobster/lobster.ttf",
+        "name": "lobster.ttf",
+        "sha256": "d6568e697fd50cedc0be04d8aae4127fe95add607e7bff954ca88604be80c205",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/lobster/Lobster-Regular.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "lobster/lobster.woff",
+        "name": "lobster.woff",
+        "sha256": "8b5908dfd76deb3247a0b1978afa0740ef7886932f58fdbff7435c78e086dccf",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/lobster/Lobster-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Fira Code",
+    "family": "monospace",
+    "author": "The Mozilla Foundation, Telefonica S.A., Nikita Prokopov",
+    "license": "OFL",
+    "tags": [
+      "моноширинный",
+      "код",
+      "программирование"
+    ],
+    "dateAdded": "2026-01-30",
+    "downloads": 11234,
+    "previewText": "const code = () => { return \"Hello World\"; };",
+    "slug": "firacode",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "firacode/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/firacode",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "firacode/firacode.ttf",
+        "name": "firacode.ttf",
+        "sha256": "9335b082b3c7850d98a64b584f3417f65355f3471278bb5eeb8c6c0e8657aeeb",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/firacode/FiraCode%5Bwght%5D.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "firacode/firacode.woff",
+        "name": "firacode.woff",
+        "sha256": "cd259136180b6154542295fa093be64dcc8e4fe4e8577940686db1512848c1b5",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/firacode/FiraCode%5Bwght%5D.ttf"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Lora",
+    "family": "serif",
+    "author": "Cyreal",
+    "license": "OFL",
+    "tags": [
+      "с засечками",
+      "читабельный",
+      "книжный"
+    ],
+    "dateAdded": "2026-02-25",
+    "downloads": 8921,
+    "previewText": "Типографика для длинных текстов и чтения",
+    "slug": "lora",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "lora/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/lora",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "lora/lora.ttf",
+        "name": "lora.ttf",
+        "sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/lora/Lora%5Bwght%5D.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "lora/lora.woff",
+        "name": "lora.woff",
+        "sha256": "1a33a5bdb88b30b80d1b0e54475d13a803d5400ab7ffa4b7fe89aeeef34db606",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/lora/Lora%5Bwght%5D.ttf"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Dancing Script",
+    "family": "handwriting",
+    "author": "Impallari Type",
+    "license": "OFL",
+    "tags": [
+      "рукописный",
+      "каллиграфический",
+      "декоративный"
+    ],
+    "dateAdded": "2026-02-18",
+    "downloads": 6789,
+    "previewText": "The quick brown fox jumps over the lazy dog",
+    "slug": "dancingscript",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": false,
+    "licenseFile": "dancingscript/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/dancingscript",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "dancingscript/dancingscript.ttf",
+        "name": "dancingscript.ttf",
+        "sha256": "21808625578fe8d8cd10cb684be546dca077b27cd03a53a2f1ec11dc743c924c",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/dancingscript/DancingScript%5Bwght%5D.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "dancingscript/dancingscript.woff",
+        "name": "dancingscript.woff",
+        "sha256": "07dea10e6af576ab393a856dd0149fd7cffde916f3e951cbc88a3d307419ed82",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/dancingscript/DancingScript%5Bwght%5D.ttf"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Raleway",
+    "family": "sans-serif",
+    "author": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida",
+    "license": "OFL",
+    "tags": [
+      "гротеск",
+      "тонкий",
+      "элегантный"
+    ],
+    "dateAdded": "2026-02-12",
+    "downloads": 10456,
+    "previewText": "Стильный шрифт с разнообразной насыщенностью",
+    "slug": "raleway",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "raleway/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/raleway",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "raleway/raleway.ttf",
+        "name": "raleway.ttf",
+        "sha256": "8bbcc3eb8275c388f4bcd998832f8a4b943eadbaf6a595205312774b5951aefb",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/raleway/Raleway%5Bwght%5D.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "raleway/raleway.woff",
+        "name": "raleway.woff",
+        "sha256": "26581765810eaa4da4641f4c199c551d63fe95eb8b0e800ff0c1eb1e6f6c94dc",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/raleway/Raleway%5Bwght%5D.ttf"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Source Code Pro",
+    "family": "monospace",
+    "author": "Paul D. Hunt",
+    "license": "OFL",
+    "tags": [
+      "моноширинный",
+      "код",
+      "технический"
+    ],
+    "dateAdded": "2026-02-08",
+    "downloads": 9345,
+    "previewText": "function formatCode() { return true; }",
+    "slug": "sourcecodepro",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "sourcecodepro/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/sourcecodepro",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "sourcecodepro/sourcecodepro.ttf",
+        "name": "sourcecodepro.ttf",
+        "sha256": "b400fc584e10aff25d0e775ce181b4fc1c5ea1b5dc37b81aeb2084375b945790",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/sourcecodepro/SourceCodePro%5Bwght%5D.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "sourcecodepro/sourcecodepro.woff",
+        "name": "sourcecodepro.woff",
+        "sha256": "54c1e97228c445d8f6b171b4abb233e9c6afc12bdd0c8f3b6fe8a9d09b8bc847",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/sourcecodepro/SourceCodePro%5Bwght%5D.ttf"
+      },
+      {
+        "format": "otf",
+        "path": "sourcecodepro/sourcecodepro.otf",
+        "name": "sourcecodepro.otf",
+        "sha256": "9f9664e2edf6f045c11e774f9bd0be6993971f2544a39061a5ce478b96b051f8",
+        "sourceUrl": "https://raw.githubusercontent.com/adobe-fonts/source-code-pro/803b7e23ec97ae58b6232ea76519a76d428ba268/OTF/SourceCodePro-Regular.otf"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Bebas Neue",
+    "family": "display",
+    "author": "Ryoichi Tsunekawa",
+    "license": "OFL",
+    "tags": [
+      "декоративный",
+      "заголовки",
+      "узкий"
+    ],
+    "dateAdded": "2026-02-22",
+    "downloads": 8123,
+    "previewText": "The quick brown fox jumps over the lazy dog",
+    "slug": "bebasneue",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": false,
+    "licenseFile": "bebasneue/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/bebasneue",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "bebasneue/bebasneue.ttf",
+        "name": "bebasneue.ttf",
+        "sha256": "08e4623805102d819f58601e46e345648846075e363b2ceb23313c2d1c83ec73",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/bebasneue/BebasNeue-Regular.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "bebasneue/bebasneue.woff",
+        "name": "bebasneue.woff",
+        "sha256": "e7d96abcf6bbd914d3d6c90c99fcb18ca51937c520cbfc1bb66a5cfabe74c4a9",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/bebasneue/BebasNeue-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Merriweather",
+    "family": "serif",
+    "author": "Sorkin Type",
+    "license": "OFL",
+    "tags": [
+      "с засечками",
+      "традиционный",
+      "печать"
+    ],
+    "dateAdded": "2026-02-03",
+    "downloads": 7543,
+    "previewText": "Классический шрифт с засечками для печатных изданий",
+    "slug": "merriweather",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "merriweather/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/merriweather",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "merriweather/merriweather.ttf",
+        "name": "merriweather.ttf",
+        "sha256": "d0ed0e359e396af7ad05e73dffd11a3a4c326ea0d0283c56bd9361cb2cc86a96",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/merriweather/Merriweather%5Bopsz%2Cwdth%2Cwght%5D.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "merriweather/merriweather.woff",
+        "name": "merriweather.woff",
+        "sha256": "d0431f41f778547fc6e417b3b52965f9beac348cc3c7f023061dd47ed43be0d0",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/merriweather/Merriweather%5Bopsz%2Cwdth%2Cwght%5D.ttf"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Pacifico",
+    "family": "handwriting",
+    "author": "Vernon Adams, Jacques Le Bailly, Botjo Nikoltchev, Ani Petrova",
+    "license": "OFL",
+    "tags": [
+      "рукописный",
+      "веселый",
+      "декоративный"
+    ],
+    "dateAdded": "2026-01-28",
+    "downloads": 6234,
+    "previewText": "Забавный стиль рукописи",
+    "slug": "pacifico",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "pacifico/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/pacifico",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "pacifico/pacifico.ttf",
+        "name": "pacifico.ttf",
+        "sha256": "5b6c0d5334a7bf77dea52b975c5a0c408878c0f7115ed5b6fb151f634b7bf701",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/pacifico/Pacifico-Regular.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "pacifico/pacifico.woff",
+        "name": "pacifico.woff",
+        "sha256": "6fcdeb3f2a9101cdee2fdada184e4dd492c7bc7fc5c4730433cd425dcb4f1bb3",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/pacifico/Pacifico-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Poppins",
+    "family": "sans-serif",
+    "author": "Indian Type Foundry, Jonny Pinhorn, Ninad Kale",
+    "license": "OFL",
+    "tags": [
+      "гротеск",
+      "современный",
+      "дружелюбный"
+    ],
+    "dateAdded": "2026-02-14",
+    "downloads": 13456,
+    "previewText": "The quick brown fox jumps over the lazy dog",
+    "slug": "poppins",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": false,
+    "licenseFile": "poppins/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/poppins",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "poppins/poppins.ttf",
+        "name": "poppins.ttf",
+        "sha256": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/poppins/Poppins-Regular.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "poppins/poppins.woff",
+        "name": "poppins.woff",
+        "sha256": "ec0efbe623202de2b0b471b08563380cfac88607758bc23efdfb121d90fa258a",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/poppins/Poppins-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Russo One",
+    "family": "sans-serif",
+    "author": "Jovanny Lemonad",
+    "license": "OFL",
+    "tags": [
+      "гротеск",
+      "жирный",
+      "заголовки"
+    ],
+    "dateAdded": "2026-02-21",
+    "downloads": 5678,
+    "previewText": "ЖИРНЫЙ СОВРЕМЕННЫЙ ГРОТЕСК",
+    "slug": "russoone",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "russoone/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/russoone",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "russoone/russoone.ttf",
+        "name": "russoone.ttf",
+        "sha256": "bc0abcc660bd8b7ad3000ecb2898a27c58a29a50f7ec81652fa12e75148d09df",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/russoone/RussoOne-Regular.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "russoone/russoone.woff",
+        "name": "russoone.woff",
+        "sha256": "502d97af7bdee6979500e3a62eb1f2fa3a2ebc0c6681c10c0178fd0dd65f229f",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ofl/russoone/RussoOne-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Ubuntu",
+    "family": "sans-serif",
+    "author": "Dalton Maag",
+    "license": "UFL",
+    "tags": [
+      "гротеск",
+      "гуманистический",
+      "читабельный"
+    ],
+    "dateAdded": "2026-02-11",
+    "downloads": 11890,
+    "previewText": "Гуманистический шрифт с хорошей читаемостью",
+    "slug": "ubuntu",
+    "weight": 400,
+    "style": "normal",
+    "supportsCyrillic": true,
+    "licenseFile": "ubuntu/LICENSE.txt",
+    "sourceUrl": "https://github.com/google/fonts/tree/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ufl/ubuntu",
+    "files": [
+      {
+        "format": "ttf",
+        "path": "ubuntu/ubuntu.ttf",
+        "name": "ubuntu.ttf",
+        "sha256": "3128df86a31805618436d0ae5651ba4285d0c9de0a39057d025f64ee33bceb64",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ufl/ubuntu/Ubuntu-Regular.ttf"
+      },
+      {
+        "format": "woff",
+        "path": "ubuntu/ubuntu.woff",
+        "name": "ubuntu.woff",
+        "sha256": "d0c4b61bd7fcef6b23f624416f888fc61bd4ab35a077f1fbdd49468954c72bdd",
+        "sourceUrl": "https://raw.githubusercontent.com/google/fonts/6e8069ff8ba3dab2a397fb30e7fbd243aba9b57a/ufl/ubuntu/Ubuntu-Regular.ttf"
+      }
+    ]
+  }
+]

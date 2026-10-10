@@ -1,0 +1,33 @@
+Options -Indexes
+DirectoryIndex index.php
+AddDefaultCharset UTF-8
+
+RewriteEngine On
+RewriteBase /
+ErrorDocument 403 /403
+ErrorDocument 404 /404
+
+# Закрываем доступ к исходным модулям, исходным данным БД, закрытым настройкам и утилитам командной строки.
+RewriteRule (^|/)\. - [F,L]
+RewriteRule ^(app|database|scripts|tests|data|includes|pages|fonts|vendor|archive|admin-ui)(/|$) - [F,L,NC]
+
+# Запросы API обрабатываются отдельной точкой входа, которая возвращает ответы в формате API.
+RewriteCond %{HTTP:Authorization} .
+RewriteRule ^api(/.*)?$ - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteRule ^api/index\.php$ - [L]
+RewriteRule ^api(/.*)?$ api/index.php [L,QSA]
+
+# Пример домена для разработки; при размещении сайта нужно указать его основной домен.
+RewriteCond %{HTTP_HOST} ^www\.test\.local$ [NC]
+RewriteRule ^(.*)$ http://test.local/$1 [R=301,L]
+
+# Обработчик формирует robots.txt с полным адресом карты сайта.
+RewriteRule ^robots\.txt$ index.php [L,QSA]
+
+# Напрямую выдаются только общедоступные стили, файлы JavaScript, изображения и значок сайта.
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^(static/.*\.(css|js|svg)|favicon\.svg)$ - [L]
+
+# Адреса страниц и файлов обрабатывает PHP, включая перенаправления со старых адресов.
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^.*$ index.php [L,QSA]

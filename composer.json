@@ -1,0 +1,22 @@
+{
+    "name": "font-gallery/admin-api",
+    "description": "Administrative API for the font gallery",
+    "type": "project",
+    "require": {
+        "php": "^8.4",
+        "ext-pdo": "*",
+        "ext-pdo_pgsql": "*",
+        "ext-mbstring": "*",
+        "ext-fileinfo": "*",
+        "ext-iconv": "*",
+        "ext-zip": "*",
+        "firebase/php-jwt": "^7.2"
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": false
+    },
+    "scripts": {
+        "test": "php tests/admin-unit.php"
+    }
+}
