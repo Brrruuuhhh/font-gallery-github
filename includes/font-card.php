@@ -59,7 +59,7 @@
     </div>
 
     <!-- Реальные файлы выдаются PHP из PostgreSQL. -->
-    <div class="font-card-section">
+    <div class="font-card-section font-card-files">
         <span class="form-label">Скачать отдельный файл:</span>
         <div class="font-file-links">
             {FONT_FILES}

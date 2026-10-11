@@ -338,11 +338,16 @@ footer {
   }
 }
 
-.footer-section h3,
-.footer-section h4 {
+.footer-title {
   font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.6;
   margin-bottom: 1rem;
   color: #ffffff;
+}
+
+.footer-brand {
+  font-weight: 700;
 }
 
 .footer-section p {
@@ -366,6 +371,10 @@ footer {
 
 .footer-section ul a:hover {
   color: #ffffff;
+}
+
+.footer-bottom p {
+  color: inherit;
 }
 
 .footer-bottom {
@@ -609,6 +618,12 @@ textarea.form-control {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+.feature-title {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin-bottom: 0.75rem;
+}
+
 .feature-icon {
   width: 4rem;
   height: 4rem;
@@ -807,11 +822,12 @@ textarea.form-control {
 
 .fonts-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: minmax(0, 1fr);
   gap: 2rem;
 }
 
 .font-card {
+  min-width: 0;
   background-color: #ffffff;
   border: 1px solid #e5e7eb;
   border-radius: 0.5rem;
@@ -887,6 +903,7 @@ textarea.form-control {
 }
 
 .font-preview {
+  overflow-wrap: anywhere;
   padding: 1.5rem;
   background-color: #f9fafb;
   border-radius: 0.5rem;
@@ -1080,6 +1097,8 @@ textarea.form-control {
 }
 
 .pagination .pagination-disabled {
+  cursor: default;
+  line-height: inherit;
   background-color: #f3f4f6;
   border-color: #e5e7eb;
   color: #9ca3af;
@@ -1779,7 +1798,10 @@ textarea.form-control {
   .font-card-download,
   .font-file-links,
   .pagination,
-  .comparison-controls {
+  .comparison-controls,
+  .comparison-clear,
+  .comparison-remove,
+  .font-card-files {
     display: none !important;
   }
 

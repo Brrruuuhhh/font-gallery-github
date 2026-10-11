@@ -235,8 +235,8 @@ function renderPaginationDirection(array $criteria, int $target, int $totalPages
     $text = '<span class="pagination-label">' . $label . '</span>';
     $content = $direction === 'prev' ? $arrow . $text : $text . $arrow;
     if ($target < 1 || $target > $totalPages) {
-        return '<span class="pagination-direction pagination-disabled" aria-disabled="true" aria-label="'
-            . $label . '">' . $content . '</span>';
+        return '<button type="button" class="pagination-direction pagination-disabled" disabled aria-label="'
+            . $label . '">' . $content . '</button>';
     }
     return '<a class="pagination-direction" href="' . escapeHtml(catalogPageUrl($criteria, $target))
         . '" rel="' . $direction . '" title="' . $label . ' страница каталога" aria-label="' . $label . '">' . $content . '</a>';

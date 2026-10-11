@@ -13,6 +13,12 @@ if (menuToggle && navMobile) {
   navMobile.querySelectorAll('a').forEach((link) => {
     link.addEventListener('click', () => setMenuOpen(false));
   });
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && navMobile.classList.contains('active')) {
+      setMenuOpen(false);
+      menuToggle.focus();
+    }
+  });
 }
 
 // Обрабатываем только ссылки навигации; выделение текущей страницы каталога сохраняется таким, каким его выдал сервер.

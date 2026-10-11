@@ -35,7 +35,7 @@
                 <div class="feature-icon">
                     <img src="/static/icons/search.svg" alt="Умный поиск" data-fallback="/static/icons/placeholder.svg">
                 </div>
-                <h3>Умный поиск</h3>
+                <h2 class="feature-title">Умный поиск</h2>
                 <p>
                     Фильтруйте шрифты по семейству, тегам, лицензии и автору. Быстрый поиск по названию.
                 </p>
@@ -45,7 +45,7 @@
                 <div class="feature-icon">
                     <img src="/static/icons/scale.svg" alt="Сравнение шрифтов" data-fallback="/static/icons/placeholder.svg">
                 </div>
-                <h3>Сравнение</h3>
+                <h2 class="feature-title">Сравнение</h2>
                 <p>
                     Сравнивайте до 5 шрифтов одновременно с синхронизированным текстом предпросмотра.
                 </p>
@@ -55,7 +55,7 @@
                 <div class="feature-icon">
                     <img src="/static/icons/css.svg" alt="Готовый CSS-код" data-fallback="/static/icons/placeholder.svg">
                 </div>
-                <h3>Готовый CSS</h3>
+                <h2 class="feature-title">Готовый CSS</h2>
                 <p>
                     Генерация @font-face кода для быстрой интеграции в ваш проект.
                 </p>

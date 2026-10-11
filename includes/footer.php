@@ -4,14 +4,14 @@
     <div class="footer-inner">
         <div class="footer-grid">
             <div class="footer-section">
-                <h3>Галерея Шрифтов</h3>
+                <h2 class="footer-title footer-brand">Галерея Шрифтов</h2>
                 <p>
                     Каталог шрифтов с инструментами предпросмотра и сравнения
                 </p>
             </div>
 
             <div class="footer-section">
-                <h4>Навигация</h4>
+                <h2 class="footer-title">Навигация</h2>
                 <ul>
                     <li><a href="/" title="Главная страница">Главная</a></li>
                     <li><a href="/catalog" title="Каталог шрифтов">Каталог</a></li>
@@ -21,7 +21,7 @@
             </div>
 
             <div class="footer-section">
-                <h4>Информация</h4>
+                <h2 class="footer-title">Информация</h2>
                 <ul>
                     <li><a href="/sitemap" title="Карта сайта">Карта сайта</a></li>
                     <li><a href="/about#privacy" title="Политика конфиденциальности">Политика конфиденциальности</a></li>
